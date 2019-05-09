@@ -1,7 +1,10 @@
 
 # Talk @ Data Visualization Lisboa
 ### Vega - a declarative visualization language for everyone, even machines
+
 [Meetup](https://www.meetup.com/Data-Visualization-Lisboa/events/258866318/)
+
+
 You have ventured into D3.js and found a world of flexibility and unlimited creation, however you end up focusing on events callbacks and the details of Canvas and SVG for longer than anticipated. Or maybe you don’t even want to learn Javascript but crave the expressiveness of D3? If you're working on standalone plots, Vega might be the solution! Built on top of D3 itself, Vega is defined as a visualization grammar. It allows us to declare not only a visualization’s design but also its dataflow and interaction in a JSON format that you can take anywhere! This JSON generates web-based views using Canvas or SVG, and can even be integrated in a wide array of platforms such as Flourish, Kibana or Power BI. In this talk we’ll learn how to use the building blocks of Vega to unleash its potential to create almost any visualization we can think of. We will also take a sneak peek at how automated visualization design systems are also embracing Vega
 
 ### How to run the code
